@@ -1,7 +1,5 @@
 
----
 
-```markdown
 # TPAdvanced Algorithms and Data Structures
 
 Bienvenue dans le dépôt **TPAdvanced Algorithms and Data Structures**. Ce projet contient une série d'exercices portant sur des algorithmes avancés et des structures de données. Chaque exercice est implémenté dans son propre dossier et couvre les thématiques suivantes :
@@ -30,7 +28,7 @@ Bienvenue dans le dépôt **TPAdvanced Algorithms and Data Structures**. Ce proj
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
----
+
 
 ## Description du Projet
 
@@ -44,11 +42,11 @@ Ce projet a pour objectif de mettre en pratique plusieurs algorithmes fondamenta
 
 La classe `Main.java` offre un menu interactif permettant de tester facilement chacun de ces algorithmes.
 
----
+
 
 ## Structure du Projet
 
-```
+
 TPAdvanced Algorithms and Data Structures/
 │
 ├── Exercice1/
@@ -67,7 +65,7 @@ TPAdvanced Algorithms and Data Structures/
 │   └── KadaneAlgorithm.java
 │
 └── Main.java
-```
+
 
 - **Exercice1/BinarySearch.java :** Implémente la recherche binaire en Java.
 - **Exercice2/GraphTraversal.java :** Contient l'implémentation des algorithmes BFS et DFS pour le parcours de graphe.
@@ -76,7 +74,7 @@ TPAdvanced Algorithms and Data Structures/
 - **Exercice5/KadaneAlgorithm.java :** Implémente l'algorithme de Kadane pour trouver le sous-tableau avec la somme maximale.
 - **Main.java :** Point d'entrée du projet, proposant un menu interactif pour tester les différents algorithmes.
 
----
+
 
 ## Prérequis
 
@@ -87,7 +85,7 @@ TPAdvanced Algorithms and Data Structures/
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Eclipse](https://www.eclipse.org/)
 
----
+
 
 ## Comment Lancer le Projet
 
