@@ -187,8 +187,3 @@ La classe `Main.java` regroupe ces algorithmes et permet de les tester via un me
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-```
-
----
-
-Ce **README.md** offre une description complète du projet, détaille la structure des dossiers, explique comment configurer et lancer le projet sur différents environnements de développement (IntelliJ IDEA, VS Code, Eclipse), et fournit des liens vers les fichiers source pour chaque exercice. Vous pouvez l'adapter selon vos besoins ou ajouter des sections supplémentaires si nécessaire.
