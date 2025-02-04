@@ -93,8 +93,8 @@ TPAdvanced Algorithms and Data Structures/
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/TPAdvanced-Algorithms-and-Data-Structures.git
-   cd TPAdvanced-Algorithms-and-Data-Structures
+   git clone https://github.com/Prune12/TD-Algorithmes-et-structures-de-donn-es-avanc-s.git
+   cd TD-Algorithmes-et-structures-de-donn-es-avanc-s
    ```
 
 2. **Compiler le projet :**  
